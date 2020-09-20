@@ -1,0 +1,54 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+.wrapper{
+	width: 500px;
+	height: 400px;
+	margin: 50px 0px 0px 50px;
+	padding: 20px;
+	border: 2px solid black;
+}
+
+.red{
+	color:red;
+}
+
+.result-header{
+	text-decoration: underline;
+	margin-bottom: 10px;
+}
+
+#submit{
+	width:50px;
+	height:25px;
+	margin-left:410px;
+	background-color:lightgreen;
+}
+
+#back{
+	background-color: green;
+	width: 70px;
+	margin-left:390px;
+}
+
+
+label{
+	width: 228px;
+	display: inline-block;
+}
+
+input, select, p{
+	width: 220px;
+	margin-bottom: 7px;
+	display: inline-block;
+}
+
+textarea{
+	width:460px;
+	height:150px;
+	padding: 10px;
+}
+
